@@ -9,6 +9,3 @@ ERD_APBO
 
 
 
-USE CASE_APBO
-
-![WhatsApp Image 2025-05-27 at 21 49 29_cd7b0743](https://github.com/user-attachments/assets/4e085ef6-088f-448f-ad81-cff1fa520ad5)
