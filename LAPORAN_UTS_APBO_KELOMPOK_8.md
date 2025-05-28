@@ -14,7 +14,21 @@
 
 ## USE CASE DIAGRAM
 ![Image](https://github.com/user-attachments/assets/ffba0582-bf96-4615-8729-add41cd9409d)
-
+>Aktor dalam Use Case
+- Guru adalah salah satu aktor utama dalam sistem informasi SLB. Dalam sistem ini, guru
+bertanggung jawab untuk mencatat perkembangan siswa secara menyeluruh, baik dari segi
+akademik, sosial, maupun emosional, yang seluruhnya termasuk dalam proses input data
+perkembangan siswa.
+- Terapis berfungsi sebagai aktor spesialis yang fokus pada aspek non-akademik siswa. Mereka
+menggunakan sistem untuk menginput hasil terapi, yang terdiri dari dua komponen penting, yaitu
+mencatat sesi terapi dan mengevaluasi respons terapi, keduanya bersifat wajib dalam proses input.
+- Orang tua merupakan aktor pasif namun penting dalam sistem. Mereka tidak menginput data,
+tetapi mendapatkan informasi secara berkala melalui notifikasi otomatis, yang mencakup
+notifikasi evaluasi dan notifikasi kejadian khusus seperti tantrum atau capaian perkembangan
+siswa.
+- Admin memiliki peran teknis dan struktural dalam sistem ini. Tugas utamanya adalah mengelola
+data siswa, yang mencakup aktivitas seperti menambah siswa baru dan mengedit data siswa, serta
+mengatur kurikulum individu yang sesuai dengan kebutuhan masing-masing siswa.
 
 ## CLASS DIAGRAM
 ![Image](https://github.com/user-attachments/assets/e54c6e1b-adc3-4bd1-b0ea-0d9541356bab)
