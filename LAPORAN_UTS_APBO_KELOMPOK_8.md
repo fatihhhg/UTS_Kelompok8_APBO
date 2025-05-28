@@ -34,3 +34,10 @@ mengatur kurikulum individu yang sesuai dengan kebutuhan masing-masing siswa.
 ![Image](https://github.com/user-attachments/assets/e54c6e1b-adc3-4bd1-b0ea-0d9541356bab)
 
 ## WIREFRAME
+![Image](https://github.com/user-attachments/assets/89f0436a-9018-41ed-ba75-00481f1037b4)
+
+![Image](https://github.com/user-attachments/assets/0c489851-67c3-497b-8909-f05ed0752390)
+
+![Image](https://github.com/user-attachments/assets/19b8122b-d371-4411-a2f1-212387053d15)
+
+![Image](https://github.com/user-attachments/assets/ff0aada2-af47-484e-9cca-bedd7784c733)
