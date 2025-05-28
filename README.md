@@ -1,17 +1,30 @@
 # UTS_Kelompok8_APBO
-UML_APBO
 
-![WhatsApp Image 2025-05-27 at 21 57 54_936b3da0](https://github.com/user-attachments/assets/1fb35b81-26b1-4d56-80dd-bf891576fa15)
+## Nama Anggota :
+1. Abner Boas P. P Gultom	4523210002
+2. Andika Haikal S	4523210016
+3. Mesak Mychart	4523210062
+4. ⁠Khalissa Raihanah	4523210122
+5. ⁠Muhammad Al Fatih	4523210135
 
+### Hasil wawancara
+[selengkapnya...](WAWANCARA_APBO.pdf)
 
-ERD_APBO
+---
+### USE CASE
+![gambar_usecase](..)
+#### keterangan:
+[detail disini](USE CASE_APBO.pdf)
+
+### ERD_APBO
 
 ![ERD uas apbo (Keseluruhan)](https://github.com/user-attachments/assets/f091889a-903e-4fa2-bf03-f0b39b8f9edb)
 
 
+### CLASS DIAGRAM 
+![CLASSDIAGRAM](classdiagram.png)
 
-
-WIREFRAME_APBO
+### WIREFRAME_APBO
 
 ![image](https://github.com/user-attachments/assets/a93cf659-5b99-41fb-835a-67a9c855196a)
 
@@ -23,3 +36,4 @@ WIREFRAME_APBO
 
 
 ![image](https://github.com/user-attachments/assets/1ee2e820-0361-4451-be31-cede8ac0d7f2)
+
