@@ -12,3 +12,6 @@
 ![Image](https://github.com/user-attachments/assets/fb11f947-95e5-46ee-85b3-f481758bf6fb)
 
 ## USE CASE DIAGRAM
+![Image](https://github.com/user-attachments/assets/ffba0582-bf96-4615-8729-add41cd9409d)
+
+## CLASS DIAGRAM
