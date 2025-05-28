@@ -10,7 +10,40 @@
 
 ## ERD
 ![Image](https://github.com/user-attachments/assets/fb11f947-95e5-46ee-85b3-f481758bf6fb)
->Entitas Utama 
+Entitas Orang Tua
+| Atribut      | Tipe Data | Keterangan                        |
+|--------------|-----------|-----------------------------------|
+| ID_OrangTua  | Integer   | Primary key, ID unik untuk orang tua |
+| Nama         | String    | Nama orang tua                    |
+| Alamat       | String    | Alamat lengkap                    |
+| No_Telepon   | String    | Nomor telepon                     |
+
+Entitas Siswa
+| Atribut         | Tipe Data | Keterangan                                 |
+|-----------------|-----------|--------------------------------------------|
+| ID_Siswa        | Integer   | Primary key, ID unik untuk siswa           |
+| Nama            | String    | Nama lengkap siswa                         |
+| Tanggal_Lahir   | Date      | Tanggal lahir siswa                        |
+| Jenis_Kelamin   | String    | Laki-laki / Perempuan                      |
+| ID_OrangTua     | Integer   | Foreign key, merujuk ke ID_OrangTua       |
+
+Entitas Terapis
+| Atribut       | Tipe Data | Keterangan                       |
+|---------------|-----------|----------------------------------|
+| ID_Guru       | Integer   | Primary key, ID unik untuk guru  |
+| Nama          | String    | Nama guru                        |
+| Spesialisasi  | String    | Bidang spesialisasi pengajaran   |
+| No_Telephone  | String    | Nomor telepon                    |
+
+Entitas Guru
+| Atribut       | Tipe Data | Keterangan                       |
+|---------------|-----------|----------------------------------|
+| ID_Guru       | Integer   | Primary key, ID unik untuk guru  |
+| Nama          | String    | Nama guru                        |
+| Spesialisasi  | String    | Bidang spesialisasi pengajaran   |
+| No_Telephone  | String    | Nomor telepon                    |
+
+ 
 
 ## USE CASE DIAGRAM
 ![Image](https://github.com/user-attachments/assets/ffba0582-bf96-4615-8729-add41cd9409d)
