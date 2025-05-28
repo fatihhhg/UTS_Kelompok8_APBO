@@ -9,3 +9,6 @@
 | 5  | Muhammad Al Fatih            | 4523210135  |
 
 ## ERD
+![Image](https://github.com/user-attachments/assets/fb11f947-95e5-46ee-85b3-f481758bf6fb)
+
+## USE CASE DIAGRAM
