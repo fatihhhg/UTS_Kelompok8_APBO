@@ -14,7 +14,7 @@
 ### USE CASE
 ![gambar_usecase]()
 #### keterangan:
-[detail disini...](USE CASE_APBO.pdf)
+[detail disini...](USE_CASE_APBO.pdf)
 ### ERD_APBO
 
 ![ERD uas apbo (Keseluruhan)](https://github.com/user-attachments/assets/f091889a-903e-4fa2-bf03-f0b39b8f9edb)
