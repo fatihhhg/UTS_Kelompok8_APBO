@@ -15,3 +15,6 @@
 ![Image](https://github.com/user-attachments/assets/ffba0582-bf96-4615-8729-add41cd9409d)
 
 ## CLASS DIAGRAM
+![Image](https://github.com/user-attachments/assets/e54c6e1b-adc3-4bd1-b0ea-0d9541356bab)
+
+## UML
