@@ -17,4 +17,4 @@
 ## CLASS DIAGRAM
 ![Image](https://github.com/user-attachments/assets/e54c6e1b-adc3-4bd1-b0ea-0d9541356bab)
 
-## UML
+## WIREFRAME
