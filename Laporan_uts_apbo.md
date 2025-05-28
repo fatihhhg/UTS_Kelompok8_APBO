@@ -8,3 +8,4 @@
 | 4  | Khalissa Raihanah            | 4523210122  |
 | 5  | Muhammad Al Fatih            | 4523210135  |
 
+## ERD
