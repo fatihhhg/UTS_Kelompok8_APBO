@@ -19,7 +19,12 @@
 ---
 
 ### ERD
-![Image](https://github.com/user-attachments/assets/fb11f947-95e5-46ee-85b3-f481758bf6fb)
+
+![ERD UAS APBO 2025](https://github.com/user-attachments/assets/2469406b-56c9-4a55-b179-9813eed9ef6f)
+
+
+
+
 Entitas Orang Tua
 | Atribut      | Tipe Data | Keterangan                        |
 |--------------|-----------|-----------------------------------|
