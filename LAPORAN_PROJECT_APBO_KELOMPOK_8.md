@@ -78,8 +78,28 @@ siswa.
 data siswa, yang mencakup aktivitas seperti menambah siswa baru dan mengedit data siswa, serta
 mengatur kurikulum individu yang sesuai dengan kebutuhan masing-masing siswa.
 
+
+### ACTIVITY DIAGRAM
+![WhatsApp Image 2025-07-03 at 21 28 11_cc2de876](https://github.com/user-attachments/assets/053008ad-8f0c-458a-876f-ca9ba76d3eff)
+
+
 ### CLASS DIAGRAM
-![classdiagram.drawio](https://github.com/user-attachments/assets/e0239ddf-2d29-4449-a414-577b3d97ad4e)
+![WhatsApp Image 2025-07-03 at 21 28 42_1bfd063a](https://github.com/user-attachments/assets/1f5890fa-6b24-41e6-b814-8493d178bb0c)
+
+
+### SEQUENCE DIAGRAM
+![WhatsApp Image 2025-07-03 at 21 29 11_85d2e620](https://github.com/user-attachments/assets/08bb2615-f558-4088-840c-ddc54e38426d)
+
+
+### FLOWCHART TERAPIS
+![flowterapis](https://github.com/user-attachments/assets/001bc9d0-1dd1-4098-b7af-17adfbe53bd7)
+
+### FLOWCHART GURU
+![flowguru](https://github.com/user-attachments/assets/ba8ffc1c-975c-436a-913d-3ffe2f1e600b)
+
+### FLOWCHART ORANG TUA
+![floworangtua](https://github.com/user-attachments/assets/8e506c9f-c726-4240-aba7-f824fe782e31)
+
 
 ### WIREFRAME
 ![Image](https://github.com/user-attachments/assets/89f0436a-9018-41ed-ba75-00481f1037b4)
@@ -89,6 +109,7 @@ mengatur kurikulum individu yang sesuai dengan kebutuhan masing-masing siswa.
 ![Image](https://github.com/user-attachments/assets/19b8122b-d371-4411-a2f1-212387053d15)
 
 ![Image](https://github.com/user-attachments/assets/ff0aada2-af47-484e-9cca-bedd7784c733)
+
 
 ### FAKTA INTEGRITAS
 ![fakta-integritas](https://github.com/user-attachments/assets/4aeba83e-1e07-4a77-b741-6aa456b674e0)
