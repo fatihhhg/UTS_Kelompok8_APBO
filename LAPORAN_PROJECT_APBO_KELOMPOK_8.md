@@ -20,7 +20,7 @@
 
 ### ERD
 
-![ERD UAS APBO 2025](https://github.com/user-attachments/assets/2469406b-56c9-4a55-b179-9813eed9ef6f)
+
 
 
 
